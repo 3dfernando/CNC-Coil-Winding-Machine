@@ -1,0 +1,11 @@
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\bin\Debug\WindingMachineInterface.exe.config
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\bin\Debug\WindingMachineInterface.exe
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\bin\Debug\WindingMachineInterface.pdb
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\bin\Debug\WindingMachineInterface.xml
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.vbprojResolveAssemblyReference.cache
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.Resources.resources
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.vbproj.GenerateResource.Cache
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.exe
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.xml
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.pdb
+H:\01 - Lofted Cylinder\01 - Mechanical\05 - Coil Winding Machine\20 - Interface VB.net\WindingMachineInterface\WindingMachineInterface\obj\Debug\WindingMachineInterface.frmInterface.resources
